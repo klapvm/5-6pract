@@ -1,0 +1,13 @@
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\bin\Debug\netcoreapp3.1\Pract4BurKla.exe
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\bin\Debug\netcoreapp3.1\Pract4BurKla.deps.json
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\bin\Debug\netcoreapp3.1\Pract4BurKla.runtimeconfig.json
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\bin\Debug\netcoreapp3.1\Pract4BurKla.runtimeconfig.dev.json
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\bin\Debug\netcoreapp3.1\Pract4BurKla.dll
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\bin\Debug\netcoreapp3.1\Pract4BurKla.pdb
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\obj\Debug\netcoreapp3.1\Pract4BurKla.csprojAssemblyReference.cache
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\obj\Debug\netcoreapp3.1\Pract4BurKla.AssemblyInfoInputs.cache
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\obj\Debug\netcoreapp3.1\Pract4BurKla.AssemblyInfo.cs
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\obj\Debug\netcoreapp3.1\Pract4BurKla.csproj.CoreCompileInputs.cache
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\obj\Debug\netcoreapp3.1\Pract4BurKla.dll
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\obj\Debug\netcoreapp3.1\Pract4BurKla.pdb
+C:\Users\студент\source\repos\Pract4BurKla\Pract4BurKla\obj\Debug\netcoreapp3.1\Pract4BurKla.genruntimeconfig.cache
